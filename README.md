@@ -1,1 +1,1 @@
-devops-processing-dev [![Build Status](https://dev.azure.com/IMSParamed-DevOps/IMSParamed.DevOps.Public.Dev/_apis/build/status%2Fimsparamed-devops-processing-dev?branchName=dev)](https://dev.azure.com/IMSParamed-DevOps/IMSParamed.DevOps.Public.Dev/_build/latest?definitionId=123&branchName=dev)
+devops-processing-dev [![Build Status](https://dev.azure.com/IMSParamed-DevOps/IMSParamed.DevOps.Public.Dev/_apis/build/status%2Fimsparamed-devops-processing-dev?branchName=dev)]
